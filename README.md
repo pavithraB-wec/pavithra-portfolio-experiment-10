@@ -1,5 +1,5 @@
 
-# Pavithra B. Portfolio
+# Pavithra Balamurugan. Portfolio
 
 A personal portfolio website for Pavithra B., built with HTML, CSS, and JavaScript and served by an Express server. The contact form sends messages through Gmail using Nodemailer.
 
