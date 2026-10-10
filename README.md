@@ -1,3 +1,4 @@
+
 # Pavithra B. Portfolio
 
 A personal portfolio website for Pavithra B., built with HTML, CSS, and JavaScript and served by an Express server. The contact form sends messages through Gmail using Nodemailer.
@@ -37,6 +38,8 @@ Open [http://localhost:3000](http://localhost:3000) (or the configured port) in 
 ## Contact Form
 
 The browser submits contact form data to `POST /contact`. The server validates the name, email, and message, then emails the message to the configured `EMAIL` address. Configure valid Gmail credentials in `.env` for email delivery; without them, the portfolio itself can still be viewed, but sending the form will fail.
+<img width="1349" height="672" alt="Screenshot 2026-10-09 154029" src="https://github.com/user-attachments/assets/d19595a4-18b5-481c-aa8f-8e080617aaeb" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f095bd7-c7ca-4424-883e-1513e4c599cb" />
 
 ## Project Structure
 
